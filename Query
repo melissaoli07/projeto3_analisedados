@@ -1,0 +1,15 @@
+Documentação Query - BigQuery
+
+Melissa de Oliveira Pecoraro - Jornada de Dados - Projeto 03
+
+🔍QUERY:
+
+2.1.2🔵 Identificar e tratar valores nulos
+
+```
+SELECT
+  SUM(CASE WHEN user_id IS NULL THEN 1 ELSE 0 END) AS user_id_nulls,
+  SUM(CASE WHEN default_flag IS NULL THEN 1 ELSE 0 END) AS default_flag_nulls,
+FROM
+  `laboratoria-projeto3.dados_projeto3.Default`
+```
