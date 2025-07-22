@@ -12,4 +12,4 @@ SELECT
   SUM(CASE WHEN default_flag IS NULL THEN 1 ELSE 0 END) AS default_flag_nulls,
 FROM
   `laboratoria-projeto3.dados_projeto3.Default`
-```
+´´´
