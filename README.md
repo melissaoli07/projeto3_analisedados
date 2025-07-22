@@ -19,6 +19,6 @@ Looker Studio (dashboard): https://lookerstudio.google.com/reporting/02a1e198-d7
 
 Apresentação: https://docs.google.com/presentation/d/1hZwiuEhbOphSibuxOX_lk4jBR8YktqDMC3Q9dSsOPu8/edit?usp=sharing
 
-Vídeo Loom: https://www.loom.com/share/108c5f01a4c743e28bf7091036519a85?sid=3c0d5b8f-71f5-4c71-b5cf-91eb73d65e41
-
 Google Colab: https://colab.research.google.com/drive/1X1gKGUYTwB2bjCKOJ3Y8dzAPX0ssQF_2?usp=sharing
+
+Vídeo Loom: https://www.loom.com/share/108c5f01a4c743e28bf7091036519a85?sid=3c0d5b8f-71f5-4c71-b5cf-91eb73d65e41
